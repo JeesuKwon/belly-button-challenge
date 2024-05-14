@@ -21,3 +21,6 @@ Complete the following steps:
    
 6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
+# Result Screen Shot
+
+![image](https://github.com/JeesuKwon/belly-button-challenge/assets/157546001/595b1bf5-d971-4764-9072-653f7a2a9cb1)
